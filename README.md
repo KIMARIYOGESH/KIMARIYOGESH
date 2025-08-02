@@ -33,7 +33,7 @@ Electronics and Communication Engineering Graduate | Aspiring Software Developer
 - [LeetCode](https://leetcode.com/u/YogeshKimari/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/kimari3101/)
 - [HackerRank](https://www.hackerrank.com/profile/yv8461)
-
+<!--
 ---
 
 ### 📈 GitHub Stats
@@ -42,10 +42,11 @@ Electronics and Communication Engineering Graduate | Aspiring Software Developer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMARIYOGESH&layout=compact&theme=radical)
 
 ---
+-->
 
 ### 📫 Let's Connect!
 
-- 📧 Email: [your-email@gmail.com]
+- 📧 Email: [kimari3101@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/yogeshkimari)
 
 ---
